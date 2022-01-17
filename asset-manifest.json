@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/world-box-office/static/js/main.a2e05546.js",
+    "main.js": "/world-box-office/static/js/main.bdf00ed8.js",
     "index.html": "/world-box-office/index.html",
-    "main.a2e05546.js.map": "/world-box-office/static/js/main.a2e05546.js.map"
+    "main.bdf00ed8.js.map": "/world-box-office/static/js/main.bdf00ed8.js.map"
   },
   "entrypoints": [
-    "static/js/main.a2e05546.js"
+    "static/js/main.bdf00ed8.js"
   ]
 }
